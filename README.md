@@ -1,5 +1,7 @@
 # Course1-Review
 A review activity for the intro full stack course
+Rosana is making changes
+Rosana's changes for completing the activity
 
 # Instructions
 - Fork this project to your GitHub
